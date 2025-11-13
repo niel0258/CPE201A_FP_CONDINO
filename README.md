@@ -3,6 +3,8 @@
 ##
 This repository holds the different projects I did in different CpE courses.
 
+![2825826](https://github.com/user-attachments/assets/a4bcbe7c-0b07-431e-aac4-14feefa7f2b0)
+
 
 ## Known Languages:
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
@@ -16,3 +18,4 @@ This repository holds the different projects I did in different CpE courses.
 
 # Github stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niel0258&show_icons=true&locale=en" alt="niel0258" /></p>
+
