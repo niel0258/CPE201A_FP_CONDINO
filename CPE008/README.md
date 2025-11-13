@@ -1,8 +1,11 @@
 # Computer Engineering as a Discipline
-All of the different projects in Programming Logic and Design are in here.
+
+<img width="1400" height="250" alt="CPE 008" src="https://github.com/user-attachments/assets/4948f302-a477-4ae7-9aaf-bda0d68ec535" /></img>
+## 
+All of the different activities in Computer Engineering as a Discipline are in here.
 
 This include:
-<li>
-<ul>Assignments</ul>
-<ul>Youtube Videos</ul>
-</li>
+<ul>
+<li>Assignments</li>
+<li>Youtube Videos</li>
+</ul>
